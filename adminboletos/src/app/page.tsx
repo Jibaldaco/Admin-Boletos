@@ -4,24 +4,85 @@ export default function Home() {
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+
+        <div className="bg-sky-600 px-4 py-2 rounded-lg">
+          <h2 className="text-white mb-3 text-base">Agregar nevo evento</h2>
+          <button className="bg-white text-black px-2 py-1 rounded-lg w-full text-sm hover:bg-blue-200">Agregar</button>
+        </div>
+
+        <div id="evento" className="flex flex-col gap-2 p-4 w-96">
+          <label htmlFor="nombre" className="text-gray-800 font-medium">Nombre del evento</label>
+          <input 
+            type="text"
+            id="nombre"
+            name="nombre"
+            className="border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-300"
+            placeholder="Evento nuevo"
+          />
+          <div className="flex gap-2">
+            <div>
+              <label htmlFor="fecha" className="text-gray-800 font-medium">Fecha de inicio</label>
+              <input 
+                type="date"
+                id="fecha"
+                name="fecha"
+                className="border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-300"
+              />
+            </div>
+            <div>
+              <label htmlFor="" className="text-gray-800 font-medium">Hora de inicio</label>
+              <input 
+                type="text" 
+                placeholder="HH:MM"
+                className="border border-gray-300 rounded-md px-3 py-2 w-full focus:outline-none focus:ring-2 focus:ring-blue-300"
+              />
+            </div>
+          </div>
+          <div className="flex gap-2">
+            <div>
+              <label htmlFor="fecha" className="text-gray-800 font-medium">Fecha de finalizacion</label>
+              <input 
+                type="date"
+                id="fecha"
+                name="fecha"
+                className="border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-300"
+              />
+            </div>
+            <div>
+              <label htmlFor="" className="text-gray-800 font-medium">Hora de finalizacion</label>
+              <input 
+                type="text"
+                placeholder="HH:MM"
+                className="border border-gray-300 rounded-md px-3 py-2 w-full focus:outline-none focus:ring-2 focus:ring-blue-300"
+              />
+            </div>
+          </div>
+          <label htmlFor="" className="text-gray-800 font-medium">Descripcion</label>
+          <textarea 
+            name="" 
+            id=""
+            placeholder="Descripcion del evento"
+            className="border border-gray-300 rounded-md px-3 py-2 w-full focus:outline-none focus:ring-2 focus:ring-blue-300"
+          />
+          <label htmlFor="" className="text-gray-800 font-medium">Tipo de evento</label>
+          <select 
+            name="" 
+            id="" 
+            className="border border-gray-300 rounded-md px-3 py-2 w-full focus:outline-none focus:ring-2 focus:ring-blue-300"
+          >
+            <option value="1" className="text-gray-800">1</option>
+            <option value="2" className="text-gray-800">2</option>
+            <option value="3" className="text-gray-800">3</option>
+          </select>
+          <label htmlFor="" className="text-gray-800 font-medium">Imagen del evento</label>
+          <button className="bg-sky-600 text-white px-2 py-1 rounded-md w-full">Subir imagen</button>
+          <label htmlFor="" className="text-gray-800 font-medium">Estado del evento</label>
+          <div className="flex gap-2">
+            <input type="checkbox" name="" id="" /><h4>Borrador</h4>
+            <input type="checkbox" name="" id="" /><h4>Publicado</h4>
+          </div>
+          <button className="bg-sky-600 text-white px-2 py-1 rounded-md w-full">Guardar</button>
+        </div>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
