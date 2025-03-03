@@ -9,12 +9,12 @@ export default function Home() {
     setShowFrom(!showFrom)
   }
 
-  const handelClick = (e) =>{
+  const handelClick = (e: React.MouseEvent<HTMLButtonElement>) =>{
     e.preventDefault()
     console.log('SUBIRIMAGEN')
   }
 
-  const handelSubmit = (e) =>{
+  const handelSubmit = (e: React.MouseEvent<HTMLButtonElement>) =>{
     e.preventDefault()
     console.log('GUARDAR')
   }
