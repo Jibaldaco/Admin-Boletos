@@ -1,0 +1,741 @@
+[
+    {
+      "id_venta": "",
+      "numero_de_asiento": 37,
+      "fila": "K",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 36,
+      "fila": "K",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 35,
+      "fila": "K",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 34,
+      "fila": "K",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 33,
+      "fila": "K",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 32,
+      "fila": "K",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 31,
+      "fila": "K",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 30,
+      "fila": "K",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 29,
+      "fila": "K",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 28,
+      "fila": "K",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 27,
+      "fila": "K",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+
+
+
+
+    {
+      "id_venta": "",
+      "numero_de_asiento": 37,
+      "fila": "L",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 36,
+      "fila": "L",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 35,
+      "fila": "L",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 34,
+      "fila": "L",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 33,
+      "fila": "L",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 32,
+      "fila": "L",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 31,
+      "fila": "L",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 30,
+      "fila": "L",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+        {
+      "id_venta": "",
+      "numero_de_asiento": 29,
+      "fila": "L",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 28,
+      "fila": "L",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 27,
+      "fila": "L",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+
+
+
+   
+    {
+      "id_venta": "",
+      "numero_de_asiento": 38,
+      "fila": "M",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 37,
+      "fila": "M",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 36,
+      "fila": "M",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 35,
+      "fila": "M",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 34,
+      "fila": "M",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 33,
+      "fila": "M",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 32,
+      "fila": "M",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 31,
+      "fila": "M",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 30,
+      "fila": "M",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 29,
+      "fila": "M",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 28,
+      "fila": "M",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+
+
+
+
+    {
+      "id_venta": "",
+      "numero_de_asiento": 38,
+      "fila": "N",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 37,
+      "fila": "N",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 36,
+      "fila": "N",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 35,
+      "fila": "N",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 34,
+      "fila": "N",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 33,
+      "fila": "N",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 32,
+      "fila": "N",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 31,
+      "fila": "N",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 30,
+      "fila": "N",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 29,
+      "fila": "N",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 28,
+      "fila": "N",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+
+
+
+
+  {
+      "id_venta": "",
+      "numero_de_asiento": 37,
+      "fila": "O",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 36,
+      "fila": "O",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 35,
+      "fila": "O",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 34,
+      "fila": "O",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 33,
+      "fila": "O",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 32,
+      "fila": "O",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 31,
+      "fila": "O",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 30,
+      "fila": "O",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 29,
+      "fila": "O",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 28,
+      "fila": "O",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+
+
+
+
+    {
+      "id_venta": "",
+      "numero_de_asiento": 35,
+      "fila": "P",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 34,
+      "fila": "P",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 33,
+      "fila": "P",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 32,
+      "fila": "P",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 31,
+      "fila": "P",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 30,
+      "fila": "P",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 29,
+      "fila": "P",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 28,
+      "fila": "P",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 27,
+      "fila": "P",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 26,
+      "fila": "P",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+
+
+
+
+    {
+      "id_venta": "",
+      "numero_de_asiento": 30,
+      "fila": "Q",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 29,
+      "fila": "Q",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 28,
+      "fila": "Q",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 27,
+      "fila": "Q",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 26,
+      "fila": "Q",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 25,
+      "fila": "Q",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 24,
+      "fila": "Q",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 23,
+      "fila": "Q",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 22,
+      "fila": "Q",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+
+
+
+
+    {
+      "id_venta": "",
+      "numero_de_asiento": 31,
+      "fila": "R",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 30,
+      "fila": "R",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 29,
+      "fila": "R",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 28,
+      "fila": "R",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 27,
+      "fila": "R",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 26,
+      "fila": "R",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 25,
+      "fila": "R",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 24,
+      "fila": "R",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 23,
+      "fila": "R",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+
+
+
+
+    {
+      "id_venta": "",
+      "numero_de_asiento": 31,
+      "fila": "S",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 30,
+      "fila": "S",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 29,
+      "fila": "S",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 28,
+      "fila": "S",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },
+    {
+      "id_venta": "",
+      "numero_de_asiento": 27,
+      "fila": "S",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    },    
+    {
+      "id_venta": "",
+      "numero_de_asiento": 26,
+      "fila": "S",
+      "seccion": "4",
+      "estado": "Disponible",
+      "id_tempo": "2023-10-06T10:00:00Z"
+    }
+
+]
+
+
